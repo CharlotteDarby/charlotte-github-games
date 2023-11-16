@@ -12,3 +12,7 @@ You can play the game at: https://charlottedarby.github.io/charlotte-github-game
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+
+## About the Author
+
+Charlotte is a computational biologist at Takeda Pharmaceuticals.  
