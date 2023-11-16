@@ -2,8 +2,6 @@
 2023-11-16
 
 *Author:* Charlotte Darby  
-*Workshop Facilitator:* Madelyn Kapfhammer  
-
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
